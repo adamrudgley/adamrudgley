@@ -7,6 +7,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning how to code better 
 - 🤔 I’m looking for help with any tips on what I should focus on learning
-- U+1F4BB I've just purchased a Raspberry pi and looking to learn more about networking abd computing and make some cool home projects
+- 💻 I've just purchased a Raspberry pi and looking to learn more about networking abd computing and make some cool home projects
 
 
+ 
