@@ -1,13 +1,10 @@
 ## About me
-
-
-**adamrudgley/adamrudgley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning how to code better 
-- 🤔 I’m looking for help with any tips on what I should focus on learning
-- 💻 I've just purchased a Raspberry pi and looking to learn more about networking abd computing and make some cool home projects
+I'm a Systems Engineer and I am trying to get a better understanding of Software Engineering and Programming. 
+  - 💻 I've just purchased a Raspberry pi and looking to learn more about networking and computing and make some cool home projects.
+  - Some of the projects I have been working on are;
+  -  an ADS-B flight tracker and recording the data on my homelab server
+  -  Built a displaty that shows the flight flying over my house as well as the route, and details like aircraft type, altitude and speed.
+    
 
 
  
